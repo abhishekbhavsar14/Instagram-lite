@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883713837771",
+    "project_id": "instagram-lite-77632",
+    "storage_bucket": "instagram-lite-77632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883713837771:android:21a533e0c425343cc3e94e",
+        "android_client_info": {
+          "package_name": "com.example.instagram_lite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6T1q4G8GC-IkBHOLLHD9y-ShJtihYhHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
